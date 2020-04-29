@@ -24,3 +24,29 @@ Integration Testing
 
 	3. It is type of (blackbox/whitebox testing)
 	    Can be either Black-box or White-box Testing.
+
+System Testing
+
+	1. What is system Testing?
+	     System testing is the execution of the software in its final configuration, including integration with other 
+	     software and hardware systems. It tests for security, performance, resource loss, timing problems, 
+	     and other issues that can’t be tested at lower levels of integration.
+
+	2. System Testing is conducted by ______________
+	    System Testing is conducted by developers/programmers
+
+	3. It is type of (blackbox/whitebox testing)
+	    White Box Testing.
+
+Acceptance Testing
+
+	1. What is acceptance Testing?
+	    Acceptance testing is to evaluate and validate that the system’s functionality meets the customer’s requirements, 
+	    standards and business needs before the final delivery.
+
+	2. Acceptance Testing is conducted by ______________
+	    Acceptance testing is conducted by customers and end-users
+
+	3. It is type of (blackbox/whitebox testing)
+	    Black Box Testing.
+
